@@ -1,2 +1,3 @@
-# web_scraping
-This repository demonstrates some basic and advanced examples of using the Python library **scrapy** to parse webpages, retrieve information and follow links
+# Web Scraping with Scrapy
+
+A collection of examples demonstrating web scraping techniques using Python's Scrapy framework. The repository covers HTML parsing, CSS/XPath selectors, crawling pages, following links, and exporting scraped data.
